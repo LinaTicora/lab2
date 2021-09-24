@@ -1,0 +1,43 @@
+.Boton_Post
+{
+    width: 10%;
+    background-color: coral;
+    font: message-box;
+    color: white;
+    font-size: medium;
+    font-family:cursive;
+    margin-top: 1%;
+    margin-left: 3%;
+    border: 1px solid grey;
+
+    box-shadow: -3px 0px 8px #000;
+}
+
+.Numeros
+{
+
+    margin-top: 0%;
+    margin-left: 0%;
+}
+
+.Cuadro
+{
+    margin-left: 3%;
+}
+
+.ContID{
+
+    float: left;
+    width:30%;
+    margin-right: 3%;
+}
+.ContTitle{
+    float: left;
+    width:30%;
+    margin-right: 3%;
+}
+.imagen{
+    float: left;
+    width:30%;
+    margin-right: 3%;
+}
